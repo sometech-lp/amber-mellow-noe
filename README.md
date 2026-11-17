@@ -1,7 +1,7 @@
-# アンバーメローノエ
+# アンバーメローノエ（旧URLからの案内）
 
-作品紹介ホームページ。管理：染めテク（sometech-lp）。
+正式サイトは https://amber-mellow-noe.github.io/ へ移転しました。
 
-公開URL：https://sometech-lp.github.io/amber-mellow-noe/
+現在の制作・公開用リポジトリ：https://github.com/amber-mellow-noe/amber-mellow-noe.github.io
 
-作品・文章・画像の権利は各権利者に帰属します。無断転載・再利用はお控えください。
+このリポジトリは旧URLからの転送と履歴を保持しています。管理：染めテク（sometech-lp）。
